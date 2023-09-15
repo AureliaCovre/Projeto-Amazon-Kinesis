@@ -30,7 +30,7 @@ Na primeira parte do projeto, realizamos as seguintes ações:
 
 - [x] Criamos dois consumidores no Google Colab, denominados Consumidor_1 e Consumidor_2, que recebem e processam as mensagens em tempo real. [Veja o script aqui](consumidor_1.py)
 
-![Consumidor_1](consumidor_1.PNG)
+![Consumidor_1](Consumidor_1.PNG)
 ![Consumidor_2](consumidor_2.PNG)
 
 ### Segunda Aplicação
