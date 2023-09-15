@@ -2,7 +2,7 @@ import boto3
 import json
 
 # Criando o cliente
-cliente = boto3.client('kinesis',aws_access_key_id='AKIAWLILQOJGY23U6CXY', aws_secret_access_key='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', region_name='us-east-2' )
+cliente = boto3.client('kinesis',aws_access_key_id='XXXXXXXXXXXXXX', aws_secret_access_key='XVXVXVXVXVXVVX', region_name='us-east-2' )
 
 # Criando objeto dicionario:
 registro = {'idvendedor' : '999', 'name' : 'Nelson'}
