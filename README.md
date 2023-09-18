@@ -1,4 +1,4 @@
-# Projeto de Demonstração com Amazon Kinesis
+# Projeto com Amazon Kinesis
 
 ## Visão Geral
 
